@@ -1,6 +1,6 @@
 == Welcome to SISMA
 
-This program is designed in Hobo to hold a database of members of a truckers club with the trucks they own and several other data.
+This program is designed in Hobo to hold an application that manages orders for a truck repair shop.
 
 It is released under the GNU AGPL version 3 in the name of Quiliro Ordoñez. quiliro at fsfla dot org
 
